@@ -36,13 +36,13 @@ a:hover{
 
 #button{
     background-color: #EB5E28;
-    color: #000;
+    color: #7d7d7d;
     font-weight: 500;
     display: inline-block;
     padding: 22px 20px;
     box-shadow: 5px 5px 10px #ffffff;
     margin: 0px;
-    transition: transform 1s, box-shadow 1s;
+    transition: transform 1s, box-shadow 1s, color 1s;
 } 
 
 #button:hover{  
