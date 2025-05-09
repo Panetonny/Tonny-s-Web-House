@@ -6,36 +6,3 @@ header{
     background-color: #252422;  
     border-bottom: 10px solid #000;
 }
-
-body{
-    background-image: url(../assets/img/Backgroud.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;
-}
-
-#navhome{
-    position: relative;
-    top: 138px;
-    left: 181px;
-}
-
-#Contatoshome{
-    background-color: #CCC5B9;
-    color: #000000;
-    width: 174px;
-    padding: 22px 0;
-    font-weight: 500;
-    display: inline-block;
-    box-shadow: 5px 5px 10px #000000;
-    margin: 0px;
-    transition: transform 1s, box-shadow 1s, color 1s;
-    text-align: center;
-    margin-left: 108px;
-}
-
-#Contatoshome:hover{
-    color: #FFF;
-    box-shadow: 4px 4px 100px #FFF;
-    transform: scale(1.1); 
-}
