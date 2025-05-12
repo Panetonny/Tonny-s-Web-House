@@ -2,11 +2,3 @@ body{
     font-family: "Wix Madefor Text", Arial, Helvetica, sans-serif;
 }
 
-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    background-color: #252422;  
-    border-bottom: 10px solid #000;
-}
