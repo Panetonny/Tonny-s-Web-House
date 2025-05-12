@@ -1,4 +1,4 @@
-a::before{
+.action::before{
     content: "";
     background-color: #ffffff;
     width: 10px;
@@ -6,7 +6,7 @@ a::before{
     margin-right: 5px;
 }   
 
-a{  
+.action{  
     font-size: 20px;
     font-weight: 400;
     color: #FFF;
@@ -16,6 +16,6 @@ a{
  
 }
 
-a:hover{
+.action:hover{
     color: blanchedalmond;
 }
