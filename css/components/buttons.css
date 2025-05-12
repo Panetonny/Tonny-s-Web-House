@@ -7,6 +7,8 @@
     height: 60px;
     box-shadow: 5px 5px 10px #ffffff;
     margin: 0px;
+    font-size: 20px;
+    font-weight: 400;
     transition: transform 1s, box-shadow 1s, color 1s;
     text-align: center;
     line-height: 60px;
@@ -26,6 +28,8 @@
      width: 170px;
     height: 60px;
     box-shadow: 5px 5px 10px #ffffff;
+    font-size: 20px;
+    font-weight: 400;
     margin: 0px;
     transition: transform 1s, box-shadow 1s, color 1s;
     text-align: center;
