@@ -1,7 +1,14 @@
 h1{
-    font-family: "Wix Madefor Text", Arial, Helvetica, sans-serif;
     font-size: 36px;
     font-weight: 300;
     letter-spacing: 17px;
     color: #fff ;
+}
+
+.box-title{
+    display: inline-block;
+    background-color: #252422;
+    padding: 47px 123px;
+    box-shadow: 6px 8px 0 black;
+    text-align: center;
 }
