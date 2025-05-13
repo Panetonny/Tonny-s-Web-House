@@ -1,7 +1,7 @@
 .banner{
     box-sizing: border-box;
     background-image: url(../../assets/img/background.jpg);
-    height: 787px;
+    height: 600px;
     background-size: 100%;
     background-repeat: no-repeat;
     border-bottom: 10px solid black;
@@ -23,5 +23,4 @@
 .banner .navigation{
     display: flex;
     justify-content: space-around;
-   
 }
