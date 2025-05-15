@@ -4,3 +4,9 @@
     letter-spacing: 17px;
     color: #fff ;
 }
+
+.title.-second{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 0 black;
+}
