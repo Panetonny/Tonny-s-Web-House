@@ -13,9 +13,10 @@
     display: inline-flex;
     align-items: center;
     margin-right: 33px;
+    transition: all 1s;
  
 }
 
 .action:hover{
-    color: blanchedalmond;
+    transform: scale(1.1);
 }
