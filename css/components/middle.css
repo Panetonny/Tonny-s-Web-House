@@ -1,26 +1,13 @@
 .middle{
     display: flex;
     box-sizing: border-box;
-    height: 730px;
+    height: 720px;
     background-color: #999999;
     justify-content: center;
     padding: 44px;
-    text-align: center;
     border-bottom: 10px solid black;
 }
 
 .middle .wrapper{
-    margin-top: 20px;
+    margin: 81px 265px;
 }
-
-.middle .wrapper .musicas{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    height: 700px;
-}
-.middle .wrapper .musica{
-    margin-top: 20px;
-    margin-right: 70px;
-}
-
