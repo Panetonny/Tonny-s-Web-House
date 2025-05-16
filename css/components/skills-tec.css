@@ -1,4 +1,9 @@
+.skills-tec{
+    display: flex;  
+}
 
-.skills-tec .title{
-    font-weight: 900;
+.skills-tec .icon{
+    margin-right: 25px;
+    width: 100px;
+    height: 100px;
 }

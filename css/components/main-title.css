@@ -1,11 +1,11 @@
-.title{
+.main-title{
     font-size: 36px;
     font-weight: 300;
     letter-spacing: 17px;
     color: #fff ;
 }
 
-.title.-second{
+.main-title.-second{
     text-align: center;
     font-size: 50px;
     text-shadow: 2px 2px 0 black;
