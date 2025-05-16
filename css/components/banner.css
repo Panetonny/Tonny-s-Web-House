@@ -1,19 +1,16 @@
 .banner{
     box-sizing: border-box;
-    background-image: url(../../assets/img/background.jpg);
-    height: 600px;
+    padding: 106px 90px; 
+    height: 690px;
+    background-image: url(../../assets/img/background.jpeg);
     background-size: 100%;
-    background-repeat: no-repeat;
-    border-bottom: 10px solid black;
-    padding-top: 106px; 
-    padding-left: 91px;
+    border-bottom: 10px solid gray;
 }
 
-.banner .wrapper {
+.banner .wrapper{
     display: flex;
     flex-direction: column;
-    width: 670px;
- 
+    width: 690px; 
 }
 
 .banner .box-title{
@@ -24,3 +21,5 @@
     display: flex;
     justify-content: space-around;
 }
+
+

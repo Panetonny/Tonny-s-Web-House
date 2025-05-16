@@ -1,0 +1,12 @@
+.header-action{  
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFF;
+    margin-right: 33px;
+    transition: all 0.5s;
+}
+
+.header-action:hover{
+    transform: scale(1.1);
+}

@@ -1,7 +1,7 @@
-.box-title{
+.box-title{ 
     display: inline-block;
-    background-color: #252422;
+    background-color: #181817;
+    border-radius: 5px;
     padding: 47px 123px;
-    box-shadow: 6px 8px 0 black;
     text-align: center;
 }

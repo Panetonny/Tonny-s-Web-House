@@ -1,5 +1,6 @@
 .skills-tec{
     display: flex;  
+    align-items: center;
 }
 
 .skills-tec .icon{

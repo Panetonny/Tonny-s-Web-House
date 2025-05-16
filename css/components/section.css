@@ -3,3 +3,21 @@
     padding: 40 px;  
     border-bottom: 10px solid black;
 }
+
+.section.-skill{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section.-skill .main-title.-second{
+    margin-bottom: 50px;
+}
+.section.-skill .wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section.-skill .wrapper .skills-tec:nth-child(odd){
+    margin-right: 100px;
+}
